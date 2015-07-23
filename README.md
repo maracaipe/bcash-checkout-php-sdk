@@ -1,7 +1,7 @@
 # Bcash Checkout Web
 
-[![Total Downloads](https://img.shields.io/packagist/dt/bcash/checkout.svg?style=flat)](https://packagist.org/packages/bcash/checkout)
-[![GitHub tag](https://img.shields.io/github/tag/payu-br/checkout.svg)](https://github.com/payu-br/checkout)
+[![Total Downloads](https://img.shields.io/packagist/dt/bcash/bcash-checkout-php-sdk.svg?style=flat)](https://packagist.org/packages/bcash/bcash-checkout-php-sdk)
+[![GitHub tag](https://img.shields.io/github/tag/payu-br/bcash-checkout-php-sdk.svg)](https://github.com/payu-br/bcash-checkout-php-sdk)
 
 ```php
 
