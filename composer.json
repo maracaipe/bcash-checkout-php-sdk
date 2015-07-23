@@ -1,5 +1,5 @@
 {
-    "name": "bcash/checkout",
+    "name": "bcash/bcash-checkout-php-sdk",
     "description": "Integration to Checkout Web from Bcash/PayU",
     "require": {
         "php": ">=5.3.0"
