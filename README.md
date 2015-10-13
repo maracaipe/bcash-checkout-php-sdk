@@ -24,7 +24,7 @@ $redirect = true;
 $orderId = 123;
 
 $products = array(
-	new stdObject(
+	(object) array(
 		'code' 		=> 123456,
 		'description' 	=> 'Product1',
 		'amount'	=> 2,
