@@ -2,7 +2,7 @@
 
 namespace Bcash\Helper;
 
-use Bcash\Config;
+use Bcash\Config\BcashConfig;
 
 class FormHelper {
 
