@@ -28,7 +28,7 @@ class Shipping implements Postable {
 		$vars = array(
 				'frete' => $this->amount,
 				'tipo_frete' => $this->type,
-				'peso_total' =>$weight
+				'peso_total' =>$this->weight
 		);
 
 		$vars = array_merge($vars, $this->address->toPostArray());
